@@ -1,0 +1,14 @@
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.dll.config
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.dll
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.pdb
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.dll
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.pdb
+C:\Users\Zed\Source\repos\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.csprojResolveAssemblyReference.cache
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.dll.config
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.dll
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\bin\CST356-Lab6-Web.pdb
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.csprojResolveAssemblyReference.cache
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.csproj.CoreCompileInputs.cache
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.dll
+C:\Users\Zed\Desktop\CST356-Lab6-Web\CST356-Lab6-Web\obj\Debug\CST356-Lab6-Web.pdb

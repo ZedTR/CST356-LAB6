@@ -1,0 +1,41 @@
+﻿#Index .myIndex{
+    font:16px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: gray;
+}
+h1{
+    color:black;
+}
+#Index .myHeader {
+    color: red;
+}
+
+body {
+    font: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: sandybrown;
+}
+p {
+    color: black;
+}
+#Index .myIndex {
+    background-color: springgreen;
+    color: black;
+    height: 40px;
+    padding-top: 5px;
+}
+ .MyRegDiv {
+      background-color: lightyellow;
+      color: black;
+      height: 40px;
+      padding-top: 5px;
+}
+.SelectionTag {
+    color:brown;
+    font-style:italic;
+
+}
+.Parag{
+    padding-top:5px;
+    padding-bottom:5px;
+}

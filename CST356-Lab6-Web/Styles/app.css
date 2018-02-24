@@ -39,3 +39,6 @@ p {
     padding-top:5px;
     padding-bottom:5px;
 }
+table, th, td {
+    border: 2px solid black;
+}
